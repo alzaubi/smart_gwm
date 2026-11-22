@@ -1,1 +1,7 @@
-
+{
+  "versionCode": 3,
+  "versionName": "0.5",
+  "apkUrl": "https://github.com/alzaubi/smart_gwm/releases/download/v0.5/SmartGWM-v0.5-code3.apk",
+  "sha256": "ee8666ef8e5a268353333904536a2888addb64ac328f6e498b7a1a9d42be7ae2",
+  "notes": "Added the SmartGWM updater and removed the separate SmartSplit updater."
+}
